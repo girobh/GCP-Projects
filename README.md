@@ -1,5 +1,5 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="aws"/> <p> 
-# GCP-Projects
+# Google Cloud Projects - Projects
 <p>
 ⚙️ <b> Project 01: </b> Automation Using Python on Google Cloud — IAM Service Accounts <p>
 ⚙️ <b> Project 02: </b> Deployment of a Private Communication in a MultiCloud Environment (AWS and GCP) 100% Automated Using Terraform <p>
